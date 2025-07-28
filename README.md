@@ -5,7 +5,7 @@ Web Scraping nivel 1: de una sola página estática (con Scrapy) -> https://www.
 
 Extraer...
 
-* Extraer el título de cada noticia de la sección Deportes del sitio El Universo.
+* Extraer el título de cada noticia de la sección deportes del sitio El Universo.
 * Extraer el resumen o descripción de cada noticia.
 * Guardar los datos extraídos con items en archivo CSV.
 
