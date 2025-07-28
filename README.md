@@ -11,4 +11,5 @@ Extraer...
 
 **LIBRERIAS A USAR=**
 
-Scrapy: Framework para scraping web.
+1) Scrapy
+2) BeautifulSoup
