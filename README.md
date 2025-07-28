@@ -1,4 +1,4 @@
-# 📰 ElUniverso-Scraper1
+# 📰 ElUniverso-Scraper2
 Web Scraping nivel 1: de una sola página estática (con Scrapy) -> https://www.eluniverso.com/deportes/
 
 **OBJETIVOS:**
